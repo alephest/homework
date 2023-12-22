@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'LED1_R~reg0'
+Slack : -17.414
+TNS   : -234.340
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -5.219
+TNS   : -181.700
+
+Type  : Slow 1200mV 85C Model Setup 'clk_divided'
+Slack : -4.249
+TNS   : -27.393
+
+Type  : Slow 1200mV 85C Model Setup 'hold'
+Slack : -0.734
+TNS   : -0.734
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_divided'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LED1_R~reg0'
+Slack : 0.922
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'hold'
+Slack : 1.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -66.941
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -4.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_divided'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LED1_R~reg0'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'LED1_R~reg0'
+Slack : -16.328
+TNS   : -220.286
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -4.866
+TNS   : -171.187
+
+Type  : Slow 1200mV 0C Model Setup 'clk_divided'
+Slack : -3.892
+TNS   : -25.027
+
+Type  : Slow 1200mV 0C Model Setup 'hold'
+Slack : -0.616
+TNS   : -0.616
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_divided'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LED1_R~reg0'
+Slack : 0.841
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'hold'
+Slack : 1.182
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -66.941
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -4.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_divided'
+Slack : -1.487
+TNS   : -16.590
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LED1_R~reg0'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'LED1_R~reg0'
+Slack : -5.928
+TNS   : -78.537
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.332
+TNS   : -40.984
+
+Type  : Fast 1200mV 0C Model Setup 'clk_divided'
+Slack : -1.182
+TNS   : -4.455
+
+Type  : Fast 1200mV 0C Model Setup 'hold'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_divided'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LED1_R~reg0'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hold'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -47.403
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -4.105
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_divided'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LED1_R~reg0'
+Slack : 0.324
+TNS   : 0.000
+
+------------------------------------------------------------
